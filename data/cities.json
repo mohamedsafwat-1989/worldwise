@@ -1,0 +1,37 @@
+{
+  "cities": [
+    {
+      "id": "405c",
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "date": "2026-03-14T13:56:34.390Z",
+      "notes": "",
+      "position": {
+        "lat": 30.107117887092382,
+        "lng": 31.289062500000004
+      }
+    },
+    {
+      "id": "d9ec",
+      "cityName": "Makkah",
+      "country": "Saudi Arabia",
+      "date": "2026-03-14T13:58:47.442Z",
+      "notes": "",
+      "position": {
+        "lat": 21.422489781343916,
+        "lng": 39.82616901397706
+      }
+    },
+    {
+      "id": "a3f2",
+      "cityName": "Sheriffhales",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "date": "2026-03-15T18:40:28.064Z",
+      "notes": "",
+      "position": {
+        "lat": 52.72298552457069,
+        "lng": -2.3291015625000004
+      }
+    }
+  ]
+}
